@@ -7,12 +7,12 @@ This gene encodes one of the receptors for serotonin, a neurotransmitter with ma
 
 
 Notebook:
-1.This [Notebook](HTR2A_EDA_students.ipynb) is EDA of 3 datasets
-2.This Notebook prepare CHEMBL dataset to merge
-3.This Notebook prepare DTC dataset to merge
-4.This Notebook prepare EXCAPE dataset to merge and EDA
-5.This Notebook is merging 3 dataset into one ready for modelling.
-6.This Notebook is tuning the Random Forest Hyperparameters.
+1.Exploratory data analysis for 3 datasets [NHTR2A_EDA_students.ipynb](HTR2A_EDA_students.ipynb)
+2.Chembl clean
+3.DTC clean
+4.Excape clean
+5.Merging 3 datasets
+6.Modeling and Tuing 
 
 Data:
 Data after standardization and recover missing smile for dtc()

@@ -15,5 +15,5 @@ Notebook:
 7. Modeling and Tuing  
  
 Data:
-Data after standardization and recover missing smile for dtc: 
+Data after standardization and recover missing smile for dtc:  
 ([HTR2A_ChEMBL_SMILES.csv](HTR2A_ChEMBL_SMILES.csv); [HTR2A_DTC_SMILES.csv](HTR2A_DTC_SMILES.csv);[HTR2A_Excape_SMILES.csv](HTR2A_Excape_SMILES.csv)

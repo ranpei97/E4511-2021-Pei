@@ -7,13 +7,12 @@ This gene encodes one of the receptors for serotonin, a neurotransmitter with ma
 
 
 Notebook:
-
 1.Exploratory data analysis for 3 datasets [NHTR2A_EDA_students.ipynb](HTR2A_EDA_students.ipynb)
 2.Chembl clean
 3.DTC clean
-4.Excape clean
-5.Merging 3 datasets
-6.Modeling and Tuing 
+5.Excape clean
+6.Merging 3 datasets
+7.Modeling and Tuing 
 
 Data:
 Data after standardization and recover missing smile for dtc()

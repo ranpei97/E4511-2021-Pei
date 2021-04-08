@@ -17,5 +17,4 @@ Data:
 [HTR2A_ChEMBL_SMILES.csv](HTR2A_ChEMBL_SMILES.csv); [HTR2A_DTC_SMILES.csv](HTR2A_DTC_SMILES.csv); [HTR2A_Excape_SMILES.csv](HTR2A_Excape_SMILES.csv)
 3. Data Cleaned: 
 [HTR2A_ChEMBL_SMILES_Cleaned.csv](HTR2A_ChEMBL_SMILES_Cleaned.csv); [HTR2A_DTC_SMILES_Cleaned.csv](HTR2A_DTC_SMILES_Cleaned.csv); [HTR2A_Excape_SMILES_Cleaned.csv](HTR2A_Excape_SMILES_Cleaned.csv)
-4. Merged and Outlier Cleaned Data:
-[HTR2A_ cur.csv](HTR2A_ cur.csv)
+4. Merged and Outlier Cleaned Data: [HTR2A_cur.csv](HTR2A_cur.csv)

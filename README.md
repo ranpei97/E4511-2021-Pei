@@ -16,6 +16,7 @@ Data:
 2. Data after standardization and recover missing smile for dtc:  
 [HTR2A_ChEMBL_SMILES.csv](HTR2A_ChEMBL_SMILES.csv); [HTR2A_DTC_SMILES.csv](HTR2A_DTC_SMILES.csv); [HTR2A_Excape_SMILES.csv](HTR2A_Excape_SMILES.csv)
 3. Data Cleaned:
+[HTR2A_ChEMBL_SMILES_Clean.csv](HTR2A_ChEMBL_SMILES_Clean.csv); [HTR2A_DTC_SMILES_Clean.csv](HTR2A_DTC_SMILES_Clean.csv); [HTR2A_Excape_SMILES_Clean.csv](HTR2A_Excape_SMILES_Clean.csv)
 
 4. Merged Data:
 

@@ -8,15 +8,14 @@ This gene encodes one of the receptors for serotonin, a neurotransmitter with ma
 
 Notebook: 
 1. Exploratory data analysis for 3 datasets [HTR2A_EDA_students.ipynb](HTR2A_EDA_students.ipynb) 
-2. Chembl clean 
-3. DTC clean 
-5. Excape clean 
-6. Merging 3 datasets 
-7. Modeling and Tuing  
+2. Data Clean and Merge []
  
 Data: 
 1. Raw datasets: 
 [HTR2A_Excape.csv](HTR2A_Excape.csv); [HTR2A_ChEMBL.csv](HTR2A_Excape.csv); [HTR2A_DTC.csv](HTR2A_Excape.csv)
 2. Data after standardization and recover missing smile for dtc:  
 [HTR2A_ChEMBL_SMILES.csv](HTR2A_ChEMBL_SMILES.csv); [HTR2A_DTC_SMILES.csv](HTR2A_DTC_SMILES.csv); [HTR2A_Excape_SMILES.csv](HTR2A_Excape_SMILES.csv)
-3. 
+3. Data Cleaned:
+
+4. Merged Data:
+

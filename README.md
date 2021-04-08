@@ -16,4 +16,4 @@ Notebook:
  
 Data:
 Data after standardization and recover missing smile for dtc: 
-1.[HTR2A_ChEMBL_SMILES.csv](HTR2A_ChEMBL_SMILES.csv); 2.[HTR2A_DTC_SMILES.csv](HTR2A_DTC_SMILES.csv); 3. [HTR2A_Excape_SMILES.csv](HTR2A_Excape_SMILES.csv)
+([HTR2A_ChEMBL_SMILES.csv](HTR2A_ChEMBL_SMILES.csv); [HTR2A_DTC_SMILES.csv](HTR2A_DTC_SMILES.csv);[HTR2A_Excape_SMILES.csv](HTR2A_Excape_SMILES.csv)
